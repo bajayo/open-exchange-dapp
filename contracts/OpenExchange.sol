@@ -54,6 +54,7 @@ contract OpenExchange is Owned, Utils {
     function setBid(IERC20Token _offered, uint256 _offeredAmount,  IERC20Token _asked, uint256 _askedAmount) 
     public 
     {
+        
         /*
         
         
